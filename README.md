@@ -32,8 +32,6 @@ Skillnaden på `lyrics` och `lyrics_cleaned` är att vi rensat bort lite interpu
 #### Källor
 
 - Låtnamn, artistnamn, år och placering kommer från [Wikipedias sidor om Melodifestivalen 2002-2014](http://sv.wikipedia.org/wiki/Melodifestivalen_2014).
-- Texter för åren 2002-2011 kommer från [LetsSingIt](http://artists.letssingit.com/melodifestivalen-olcr2/lyrics)
-- Texter för åren 2012-2014 hämtade vi från [SVT:s Mellosidor](http://www.svt.se/melodifestivalen/)
 
 # Datakvalitet
 
