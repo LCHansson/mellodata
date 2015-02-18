@@ -24,10 +24,6 @@ Datat i repot är fritt tillgängligt att ladda ned och använda, och vi blir s�
 - `artist`: Namn på artisten
 - `year`: År låten var med i Melodifestivalen
 - `song_name`: Namn på låten
-- `lyrics`: Låttexten, orensad
-- `lyrics_cleaned`: Låttexten, rensad
-
-Skillnaden på `lyrics` och `lyrics_cleaned` är att vi rensat bort lite interpunktion och annat skräp från `lyrics_cleaned` för att göra den lättare att analysera. Å andra sidan skulle det kunna tänkas att den innehåller några fel av den anledningen, då all bearbetning gjorts maskinellt.
 
 #### Källor
 
